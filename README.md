@@ -1,7 +1,5 @@
 # Auth Man CLI - Golang Credentials Manager CLI
 
-**Description**:
-
 Auth Man is a robust and user-friendly credentials manager command-line tool built in Golang. It's designed to help you securely manage your sensitive credentials, such as API keys, passwords, and access tokens, with ease and confidence.
 
 ## Features
